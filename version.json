@@ -1,0 +1,15 @@
+{
+  "version_code": 44,
+  "version_name": "2.3.14",
+  "title": "Update TabunganKu",
+  "apk_url": "https://github.com/curu123/tabunganku-update/releases/latest/download/TabunganKu.apk",
+  "mandatory": false,
+  "sha256": "",
+  "changelog": [
+    "Sinkronisasi database otomatis diperbaiki agar data member dan transaksi lebih konsisten.",
+    "Akses Admin kini dilindungi PIN khusus untuk meningkatkan keamanan.",
+    "Kecepatan startup dan respons aplikasi ditingkatkan.",
+    "Sistem pengecekan dan pengunduhan update otomatis diaktifkan.",
+    "Perbaikan bug dan peningkatan stabilitas aplikasi secara rutin."
+  ]
+}
