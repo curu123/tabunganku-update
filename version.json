@@ -1,20 +1,16 @@
 {
-  "version_code": 44,
-  "version_name": "2.3.14",
+  "version_code": 45,
+  "version_name": "2.3.15",
   "title": "Update TabunganKu",
   "apk_url": "https://github.com/curu123/tabunganku-update/releases/latest/download/TabunganKu.apk",
   "mandatory": false,
   "sha256": "",
   "changelog": [
-    "Memperbaiki error GlobalKey pada halaman Tabungan dan Kartu Member.",
-    "Memperbaiki respons tema terang/gelap pada Member dan Admin.",
-    "Memperluas dukungan Bahasa Indonesia dan English pada navigasi, pengingat, dan pengaturan utama.",
-    "Halaman login selalu menggunakan mode terang.",
-    "Admin dapat membuat jadwal menabung khusus per member.",
-    "Admin dapat membuat jadwal menabung untuk semua member.",
-    "Pengingat menabung tampil H-1 dan pada hari H.",
-    "Nama rekening ditampilkan kapital dan nomor rekening ditebalkan.",
-    "Informasi update menampilkan daftar perubahan.",
-    "Build tetap 44."
+    "Request setoran member sekarang dikirim ke server dan dapat muncul di Admin.",
+    "Request penarikan member juga disinkronkan antara Member dan Admin.",
+    "Status menunggu, disetujui, atau ditolak dapat diperbarui melalui server.",
+    "Menu update kini menampilkan bagian APA YANG BARU agar pengguna mengetahui perubahan versi.",
+    "Istilah teknis Supabase pada tampilan pengguna diganti menjadi Server.",
+    "Perbaikan sinkronisasi data dan stabilitas aplikasi."
   ]
 }
