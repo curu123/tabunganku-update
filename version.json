@@ -1,0 +1,20 @@
+{
+  "version_code": 44,
+  "version_name": "2.3.14",
+  "title": "Update TabunganKu",
+  "apk_url": "https://github.com/curu123/tabunganku-update/releases/latest/download/TabunganKu.apk",
+  "mandatory": false,
+  "sha256": "",
+  "changelog": [
+    "Memperbaiki error GlobalKey pada halaman Tabungan dan Kartu Member.",
+    "Memperbaiki respons tema terang/gelap pada Member dan Admin.",
+    "Memperluas dukungan Bahasa Indonesia dan English pada navigasi, pengingat, dan pengaturan utama.",
+    "Halaman login selalu menggunakan mode terang.",
+    "Admin dapat membuat jadwal menabung khusus per member.",
+    "Admin dapat membuat jadwal menabung untuk semua member.",
+    "Pengingat menabung tampil H-1 dan pada hari H.",
+    "Nama rekening ditampilkan kapital dan nomor rekening ditebalkan.",
+    "Informasi update menampilkan daftar perubahan.",
+    "Build tetap 44."
+  ]
+}
